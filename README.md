@@ -99,6 +99,6 @@ url: https://github.com/FlavienNgueukam/Java-Springboot-VotingApp-master/
 
 
 
-### Project Creator: Swapnil Bamble
+### Project Creator: Flavien Ngueukam
 
 
