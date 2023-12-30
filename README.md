@@ -1,7 +1,7 @@
 # VotingApp 
 
  ### Take a look at this Application
-url: https://swapnilbamble1438.github.io/VotingApplication/
+url: https://github.com/FlavienNgueukam/Java-Springboot-VotingApp-master/
 
 ### It is SpringBoot Project with Thymeleaf Frontend. Build in Spring Tool Suite.
 ## It is a Voting Application. 
@@ -29,7 +29,7 @@ url: https://swapnilbamble1438.github.io/VotingApplication/
 - Select Import
 - Select Projects from Git(with smart import) -> Next
 - Select Clone URI -> Next
-- In URI paste this url: https://github.com/swapnilbamble1438/VotingApp.git
+- In URI paste this url: https://github.com/FlavienNgueukam/Java-Springboot-VotingApp-master/
   -> Next
 -  Now in Local Destination
 
