@@ -2,7 +2,7 @@
 
  ### Take a look at this Application
 url: https://github.com/FlavienNgueukam/Java-Springboot-VotingApp-master/
-
+ 
 ### It is SpringBoot Project with Thymeleaf Frontend. Build in Spring Tool Suite.
 ## It is a Voting Application. 
 
